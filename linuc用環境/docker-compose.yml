@@ -1,0 +1,11 @@
+
+version: '3'
+
+services:
+  linuxtudy:
+    build: .
+    container_name: linuxtudy
+    ports:
+      - "2222:22"
+    stdin_open: true
+    tty: true
