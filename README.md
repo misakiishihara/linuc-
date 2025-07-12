@@ -1,6 +1,6 @@
 # LinuC  (Lv101-202) Practice Environment (Ubuntu + SSH)
 
-This project provides a simple Docker-based Ubuntu environment for practicing LinuC Level 1 skills.
+This project provides a simple Docker-based Ubuntu environment for practicing LinuC skills.
 
 ## 📖 Overview
 This container includes:
